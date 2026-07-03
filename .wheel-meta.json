@@ -1,0 +1,16 @@
+{
+  "wheel_id": 21,
+  "slug": "home-loan-broker-brisbane-mr-150",
+  "project": "home-loan-broker-brisbane-guide",
+  "parent_t1_ref": "home-loan-broker-brisbane-mr",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "home loan broker brisbane",
+  "intended_url": "https://home-loan-broker-brisbane-guide.netlify.app/",
+  "links": [
+    {
+      "target_url": "https://pressranger.com/media-rooms/home-loan-broker-brisbane",
+      "anchor": "Find a Mortgage Broker Brisbane",
+      "rel": "follow"
+    }
+  ]
+}
